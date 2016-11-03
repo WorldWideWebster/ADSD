@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Sean/OneDrive/SchoolWork/Architecture
+vadder12_tb
+Z0 !s110 1471125928
+!i10b 1
+!s100 [BYI0TTQcH@9;6@]MK4Qj0
+I?3>zbRYg2DA;GRHHBZTO31
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Sean/OneDrive/SchoolWork/ADSD
+w1471118892
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/adder12_tb.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/adder12_tb.v
+Z3 L0 13
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1471125928.000000
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/adder12_tb.v|
+!s90 -reportprogress|300|-work|HW3|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/adder12_tb.v|
+!s101 -O0
+!i113 1
+Z6 o-work HW3 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vadder_12
+R0
+!i10b 1
+!s100 ^1YGlgEP9h?^koK7K3CK51
+I9W;>L>RK5G10gEW]<NUcV2
+R1
+R2
+w1471118833
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/adder_12.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/adder_12.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/adder_12.v|
+!s90 -reportprogress|300|-work|HW3|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/adder_12.v|
+!s101 -O0
+!i113 1
+R6
+vcomp12_tb
+R0
+!i10b 1
+!s100 6^S1;J0G]1KF_<2oQbAAC3
+I8`1R[@N3F?UF7LmH@NTPB0
+R1
+R2
+w1471124619
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp12_tb.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/comp12_tb.v
+L0 14
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp12_tb.v|
+!s90 -reportprogress|300|-work|HW3|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp12_tb.v|
+!s101 -O0
+!i113 1
+R6
+vcomp_12
+R0
+!i10b 1
+!s100 WMVDR@Hkozi7>eznXS:Fb2
+IiH5jzNm5B1]I6g:o89fTP0
+R1
+R2
+w1471125780
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp_12.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/comp_12.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp_12.v|
+!s90 -reportprogress|300|-work|HW3|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp_12.v|
+!s101 -O0
+!i113 1
+R6
+vdatapath
+R0
+!i10b 1
+!s100 CYQ=ah4hhE^]PU42P;S?X2
+IbnDkI=>^?gL26V[0M9dO^0
+R1
+R2
+w1471125806
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/datapath.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/datapath.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/datapath.v|
+!s90 -reportprogress|300|-work|HW3|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/datapath.v|
+!s101 -O0
+!i113 1
+R6
+vdatapath_tb
+R0
+!i10b 1
+!s100 MNU8B6jo2U9;G@]]JkQGn3
+IA<EY`kmh1=cOUE[U2game3
+R1
+R2
+w1471125926
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/datapath_tb.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/datapath_tb.v
+L0 11
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/datapath_tb.v|
+!s90 -reportprogress|300|-work|HW3|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/datapath_tb.v|
+!s101 -O0
+!i113 1
+R6

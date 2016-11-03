@@ -1,0 +1,22 @@
+C:/Users/Sean/OneDrive/SchoolWork/ADSD/adder_12.v {1 {vlog -work HW3 -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/adder_12.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder_12
+
+Top level modules:
+	adder_12
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp12_tb.v {1 {vlog -work HW3 -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp12_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module comp12_tb
+
+Top level modules:
+	comp12_tb
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/adder12_tb.v {1 {vlog -work HW3 -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/adder12_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder12_tb
+
+Top level modules:
+	adder12_tb
+
+} {} {}}

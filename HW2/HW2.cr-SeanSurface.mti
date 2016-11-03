@@ -1,0 +1,63 @@
+C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu64_tb.v {1 {vlog -work work -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu64_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu64_tb
+
+Top level modules:
+	alu64_tb
+
+} {} {}} C:/Modelsim/adder_1.v {1 {vlog -work HW2 -stats=none C:/Modelsim/adder_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder_1
+
+Top level modules:
+	adder_1
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_16.v {1 {vlog -work HW2 -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_16.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder_16
+
+Top level modules:
+	adder_16
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu16_tb.v {1 {vlog -work HW2 -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu16_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu16_tb
+
+Top level modules:
+	alu16_tb
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_64.v {0 {vlog -work work -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_64.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_64
+** Error: C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_64.v(59): (vlog-2110) Illegal reference to net "S".
+
+
+} {4.0 5.0} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_1.v {1 {vlog -work HW2 -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder_1
+
+Top level modules:
+	adder_1
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder16_tb.v {1 {vlog -work HW2 -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder16_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder16_tb
+
+Top level modules:
+	adder16_tb
+
+} {} {}} C:/Modelsim/adder1_tb.v {1 {vlog -work HW2 -stats=none C:/Modelsim/adder1_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder1_tb
+
+Top level modules:
+	adder1_tb
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16.v {1 {vlog -work HW2 -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_16
+
+Top level modules:
+	alu_16
+
+} {} {}}

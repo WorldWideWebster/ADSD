@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modelsim
+vadder16_tb
+Z0 !s110 1470858104
+!i10b 1
+!s100 U_3n^dg^fTcPoLHaV^N9:0
+IIJdhZ]WY8]JAR;c?hgd:B0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2
+w1470324542
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder16_tb.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder16_tb.v
+Z3 L0 14
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1470858104.000000
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder16_tb.v|
+!s90 -reportprogress|300|-work|HW2|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder16_tb.v|
+!s101 -O0
+!i113 1
+Z6 o-work HW2 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vadder1_tb
+!s110 1470321973
+!i10b 1
+!s100 jmb:Q`dQ5<He9i9<ZzOz?2
+I@U6jLz^DWOW9ZjkPQVQD20
+R1
+R2
+w1470321966
+8C:/Modelsim/adder1_tb.v
+FC:/Modelsim/adder1_tb.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1470321973.000000
+!s107 C:/Modelsim/adder1_tb.v|
+!s90 -reportprogress|300|-work|HW2|-stats=none|C:/Modelsim/adder1_tb.v|
+!s101 -O0
+!i113 1
+R6
+vadder_1
+Z7 !s110 1470858105
+!i10b 1
+!s100 O8JmSY:MoSIY36I_f8@=L2
+IoF7>]MM^P74cVa8M:=]e?0
+R1
+R2
+w1470454606
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_1.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_1.v
+Z8 L0 12
+R4
+r1
+!s85 0
+31
+Z9 !s108 1470858105.000000
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_1.v|
+!s90 -reportprogress|300|-work|HW2|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_1.v|
+!s101 -O0
+!i113 1
+R6
+vadder_16
+R0
+!i10b 1
+!s100 eWZ=UXBfLEi4GM1ainGVn2
+I<<h00XH3ONe8YB3mccjeD1
+R1
+R2
+w1470324478
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_16.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_16.v
+R8
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_16.v|
+!s90 -reportprogress|300|-work|HW2|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_16.v|
+!s101 -O0
+!i113 1
+R6
+valu16_tb
+R7
+!i10b 1
+!s100 `lG<9G34@j4hmiZQLDn8F1
+I4?@0jMg2];UknghfNO?l91
+R1
+R2
+w1470780950
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu16_tb.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu16_tb.v
+L0 13
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu16_tb.v|
+!s90 -reportprogress|300|-work|HW2|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu16_tb.v|
+!s101 -O0
+!i113 1
+R6
+valu64_tb
+R7
+!i10b 1
+!s100 SR>m]G^e<en8m7kWP?2TD2
+I7E<;]Y_U>]QBG7NWLlQ2z2
+R1
+R2
+w1470858103
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu64_tb.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu64_tb.v
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu64_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu64_tb.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu_16
+R0
+!i10b 1
+!s100 T=I2Y@M[ZAKREWEY9Pj`h3
+Ie:e<8<IfKUZ7]7BKh4bOR1
+R1
+R2
+w1470846294
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16.v
+R8
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16.v|
+!s90 -reportprogress|300|-work|HW2|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16.v|
+!s101 -O0
+!i113 1
+R6
+valu_64
+R7
+!i10b 1
+!s100 8fLQGa5eASSOi89mSb@ce0
+IEJEU=8;?KDiTf26YR8gC`1
+R1
+R2
+w1470846826
+8C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_64.v
+FC:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_64.v
+R8
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_64.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_64.v|
+!s101 -O0
+!i113 1
+R10

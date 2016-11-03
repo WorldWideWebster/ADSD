@@ -1,0 +1,74 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Sean/OneDrive/SchoolWork/ADSD
+vand_struct
+!s110 1469024544
+!i10b 1
+!s100 jWMVV[hoJkN@;f<acm7IJ2
+IKVO4G9C?jOmO`kRGaZTVA1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Modelsim
+w1469024540
+8C:/Modelsim/and_struct.v
+FC:/Modelsim/and_struct.v
+L0 5
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1469024544.000000
+!s107 C:/Modelsim/and_struct.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modelsim/and_struct.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vand_struct_tb
+!s110 1469029820
+!i10b 1
+!s100 mRhShjP9Ca7<K8iAB^L612
+IR@oB95b2zdzGbL<Q@haLM0
+R0
+R1
+w1469029818
+8C:/Modelsim/tb.v
+FC:/Modelsim/tb.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1469029820.000000
+!s107 C:/Modelsim/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modelsim/tb.v|
+!s101 -O0
+!i113 1
+R3
+vMyInverter
+!s110 1469022411
+!i10b 1
+!s100 ^32c5zbGnZ=G65d:LJbCX1
+I_0[lJbH7IDNTK5I1E^alV3
+R0
+R1
+w1469022408
+8C:/Modelsim/Inverter.v
+FC:/Modelsim/Inverter.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1469022410.000000
+!s107 C:/Modelsim/Inverter.v|
+!s90 -reportprogress|300|-work|HW1|-stats=none|C:/Modelsim/Inverter.v|
+!s101 -O0
+!i113 1
+o-work HW1 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@my@inverter

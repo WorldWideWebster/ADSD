@@ -1,0 +1,9 @@
+
+module MyInverter (MyInput, MyOutput);
+
+	input MyInput;
+	output MyOutput;
+
+	assign MyOutput = ~ MyOutput
+
+endmodule 

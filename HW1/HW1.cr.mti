@@ -1,0 +1,36 @@
+C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp1_tb.v {1 {vlog -work work -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp1_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module comp1_tb
+
+Top level modules:
+	comp1_tb
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW1/1_comparator.v {1 {vlog -work work -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW1/1_comparator.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module comparator_1
+
+Top level modules:
+	comparator_1
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW1/comp1_tb.v {1 {vlog -work work -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW1/comp1_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module comp1_tb
+
+Top level modules:
+	comp1_tb
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp4_tb.v {1 {vlog -work work -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/comp4_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module comp4_tb
+
+Top level modules:
+	comp4_tb
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW1/comparator_4_copy.v {1 {vlog -work work -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW1/comparator_4_copy.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module comparator_4
+
+Top level modules:
+	comparator_4
+
+} {} {}}

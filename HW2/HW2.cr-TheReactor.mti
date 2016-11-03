@@ -1,0 +1,37 @@
+C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16a.v {0 {vlog -work work -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16a.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_16
+** Error: C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16a.v(25): LHS in procedural continuous assignment may not be a net: S.
+** Error: C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16a.v(26): LHS in procedural continuous assignment may not be a net: S.
+** Error: C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16a.v(27): LHS in procedural continuous assignment may not be a net: S.
+** Error: C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/alu_16a.v(12): Identifier must be declared with a port mode: S.
+
+} {4.0 8.0} {}} C:/Modelsim/adder_1.v {1 {vlog -work HW2 -stats=none C:/Modelsim/adder_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder_1
+
+Top level modules:
+	adder_1
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_16.v {1 {vlog -work HW2 -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder_16.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder_16
+
+Top level modules:
+	adder_16
+
+} {} {}} C:/Modelsim/adder1_tb.v {1 {vlog -work HW2 -stats=none C:/Modelsim/adder1_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder1_tb
+
+Top level modules:
+	adder1_tb
+
+} {} {}} C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder16_tb.v {1 {vlog -work HW2 -stats=none C:/Users/Sean/OneDrive/SchoolWork/ADSD/HW2/adder16_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder16_tb
+
+Top level modules:
+	adder16_tb
+
+} {} {}}
